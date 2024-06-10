@@ -42,7 +42,7 @@ export default function Home() {
       >
         <p>Той салтанаты:</p>
         <p>5 шілде 2024 жыл</p>
-        <p>Сағат 18:00 басталады</p>
+        <p>Сағат 19:00 басталады</p>
       </div>
       {/* <Image
         src="/images/calendar.png"
