@@ -26,13 +26,7 @@ export default function Home() {
     <div className="flex flex-col text-center ">
       <Main />
 
-      <div
-        className="mt-[-140px] text-center text-xl text-green-800 font-sans font-extralight"
-        data-aos="fade-up"
-      >
-        тойына арналған ақ <br /> дастарханымыздың қадірлі <br /> қонағы болуға
-        шақырамыз!
-      </div>
+     
       {/* <div className="bg-[url('/images/bg-element-2.webp')] bg-cover bg-no-repeat bg-center h-[50px] w-full">dfs</div> */}
       <div className="relative">
         <Image
