@@ -27,7 +27,7 @@ export default function Home() {
       <Main />
 
       <div
-        className="mt-[-150px] text-center text-xl text-green-800 font-sans font-extralight"
+        className="mt-[-140px] text-center text-xl text-green-800 font-sans font-extralight"
         data-aos="fade-up"
       >
         тойына арналған ақ <br /> дастарханымыздың қадірлі <br /> қонағы болуға
