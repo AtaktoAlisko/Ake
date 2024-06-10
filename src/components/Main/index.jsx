@@ -51,9 +51,9 @@ export default function Main() {
                     </p>
                     <p  data-aos="fade-up" className="pt-5 text-xl">Сіздерді, әкеміз</p>
                     <div className="font text-6xl pt-6">
-                        <h2  data-aos="fade-up">Ерұланның</h2>
+                        <h2 className="mt-2 mb-5"  data-aos="fade-up">Ерұланның</h2>
                     </div>
-                    <p  data-aos="fade-up" className="pt-5 text-xl">60 жас мейрейтойы</p>
+                    <p  data-aos="fade-up" className=" mt-2 mb-2 pt-5 text-xl">60 жас мейрейтойы</p>
                 </div>
             </div>
         </>

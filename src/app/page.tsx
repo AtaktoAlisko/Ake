@@ -76,15 +76,15 @@ export default function Home() {
       </p>
       <Date />
 
-      <div className="mt-10 text-green-800 leading-relaxed" data-aos="fade-up">
+      <div  className="mt-10 text-green-800 leading-relaxed" data-aos="fade-up">
         <Image src={usti} alt="bg" className="w-full h-auto" />
-        <p className="font-sans text-2xl font-extralight">Мекен-жайымыз:</p>
-        <p className="font text-3xl mt-1">Ақтөбе қаласы</p>
-        <p className="font-sans text-2xl mt-4 font-extralight">
+        <p data-aos="zoom-in" className="font-sans text-2xl font-extralight">Мекен-жайымыз:</p>
+        <p data-aos="zoom-in" className="font text-3xl mt-1">Ақтөбе қаласы</p>
+        <p data-aos="zoom-in" className="font-sans text-2xl mt-4 font-extralight">
           9-й Микрорайон, 98a
         </p>
-        <p className="font text-3xl my-1">Манас Hall</p>
-        <p className="font-sans text-2xl mb-2 font-extralight">Мейрамханасы</p>
+        <p data-aos="zoom-in" className="font text-3xl my-1">Манас Hall</p>
+        <p  data-aos="zoom-in" className="font-sans text-2xl mb-2 font-extralight">Мейрамханасы</p>
       </div>
 
       <div data-aos="flip-left" className="flex justify-center gap-10">

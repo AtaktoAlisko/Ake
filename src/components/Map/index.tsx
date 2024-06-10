@@ -4,7 +4,7 @@ import { YMaps, Map } from "@pbe/react-yandex-maps";
 const YandexMap = () => (
   <YMaps>
     <div className="text-3xl text-center mt-5 text-green-800 font-sans font-extralight font">
-      <p>
+      <p data-aos="zoom-in">
         Cіздерге ыңғайлы болуы үшін <br /> төменде көрсетілген картаны <br />{" "}
         қолданыңыз!
       </p>
