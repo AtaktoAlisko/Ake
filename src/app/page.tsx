@@ -41,8 +41,8 @@ export default function Home() {
         data-aos="fade-up"
       >
         <p>Той салтанаты:</p>
-        <p>2 тамыз 2024 жыл</p>
-        <p>Сағат 16:00 басталады</p>
+        <p>5 шілде 2024 жыл</p>
+        <p>Сағат 18:00 басталады</p>
       </div>
       {/* <Image
         src="/images/calendar.png"
