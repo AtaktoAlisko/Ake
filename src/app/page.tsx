@@ -14,6 +14,7 @@ import Map from "@/components/Map";
 import usti from "../../public/images/usti.png";
 import asti from "../../public/images/asti.png";
 import footer from "../../public/images/footer.png";
+import ls from "../../public/images/ls.png";
 
 export default function Home() {
   useEffect(() => {
@@ -37,7 +38,7 @@ export default function Home() {
         />
       </div>
       <div
-        className="mt-[-50px] text-3xl font text-center mb-10 text-green-800 font-sans font-extralight"
+        className="mt-[-50px] text-4xl font text-center mb-10 text-green-800 font-sans font-extralight"
         data-aos="fade-up"
       >
         <p>Той салтанаты:</p>
@@ -53,17 +54,18 @@ export default function Home() {
       /> */}
 
       <Calendar />
+
       <div
         className="mt-[-25px] text-green-800 font-extralight"
         data-aos="fade-up"
       >
-        <h2 className="font-sans text-xl mb-1 mt-20">Той иелері:</h2>
-        <h2 className="font text-4xl">Амангелді - Құралай</h2>
+        <h2 className="font-sans text-3xl mb-1 mt-20">Той иелері:</h2>
+        <h2 className="font text-5xl">Балалары</h2>
       </div>
 
       <p
         data-aos="fade-right"
-        className="mt-[50px] text-xl font-sans text-green-800 font-extralight"
+        className="mt-[50px] text-3xl font-sans text-green-800 font-extralight"
       >
         Тойға дейін:
       </p>
@@ -71,13 +73,13 @@ export default function Home() {
 
       <div  className="mt-10 text-green-800 leading-relaxed" data-aos="fade-up">
         <Image src={usti} alt="bg" className="w-full h-auto" />
-        <p data-aos="zoom-in" className="font-sans text-2xl font-extralight">Мекен-жайымыз:</p>
-        <p data-aos="zoom-in" className="font text-3xl mt-1">Ақтөбе қаласы</p>
-        <p data-aos="zoom-in" className="font-sans text-2xl mt-4 font-extralight">
-          9-й Микрорайон, 98a
+        <p data-aos="zoom-in" className="font-sans text-4xl font-extralight">Мекен-жайымыз:</p>
+        <p data-aos="zoom-in" className="font text-5xl mt-1">Ақтөбе қаласы</p>
+        <p data-aos="zoom-in" className="font-sans text-4xl mt-4 mb-4 font-extralight">
+         Юго-Запад-2
         </p>
-        <p data-aos="zoom-in" className="font text-3xl my-1">Манас Hall</p>
-        <p  data-aos="zoom-in" className="font-sans text-2xl mb-2 font-extralight">Мейрамханасы</p>
+        <p data-aos="zoom-in" className="font text-5xl my-1">Манас Hall</p>
+        <p  data-aos="zoom-in" className="font-sans text-4xl mb-2 font-extralight">Мейрамханасы</p>
       </div>
 
       <div data-aos="flip-left" className="flex justify-center gap-10">
@@ -117,8 +119,8 @@ export default function Home() {
       <Attendance />
 
       <div>
-        <h2 className="mt-5 text-4xl text-green-800 font">Ысымовтар әулеті </h2>
-        <p className="text-3xl leading-relaxed mb-10 text-green-800 font">
+        <h2 className="mt-5 text-5xl text-green-800 font">Ысымовтар әулеті </h2>
+        <p className="text-4xl leading-relaxed mb-10 text-green-800 font">
           сіздерді күтеді!
         </p>
       </div>

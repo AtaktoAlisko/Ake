@@ -42,13 +42,13 @@ export default function Main() {
           <div data-aos="fade-up" className="font text-6xl">
             <h2>Әкеміз</h2>
             <h2>Ерұланның</h2>
-            <h2>Мейрам тойы</h2>
+            <h2 className="mt-2">Мерей тойы</h2>
           </div>
-          <p data-aos="fade-up" className="pt-10 text-xl">
+          <p data-aos="fade-up" className="pt-10 text-2xl">
             Құрметті ағайын-туыс, бауырлар, <br /> нағашы-жиен, бөлелер, <br />
             құда-жекжат, дос-жаран, <br /> әріптестер мен көршілер!
           </p>
-          <p data-aos="fade-up" className="pt-5 text-xl">
+          <p data-aos="fade-up" className="pt-5 text-2xl">
             Сіздерді, әкеміз
           </p>
           <div className="font text-6xl pt-6">
@@ -56,12 +56,12 @@ export default function Main() {
               Ерұланның
             </h2>
           </div>
-          <p data-aos="fade-up" className=" mt-2 mb-5 pt-5 text-xl">
-            60 жас мейрейтойы
+          <p data-aos="fade-up" className=" mt-2  pt-5 text-2xl">
+            60 жас мерей
           </p>
 
           <div
-            className="mt-[10px] text-center text-xl text-green-800 font-sans font-extralight"
+            className="mt-[10px] text-center text-2xl text-green-800 font-sans font-extralight"
             data-aos="fade-up"
           >
             тойына арналған ақ <br /> дастарханымыздың қадірлі <br /> қонағы
