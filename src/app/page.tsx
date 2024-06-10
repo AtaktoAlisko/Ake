@@ -31,7 +31,7 @@ export default function Home() {
       <div className="relative ">
         <Image
           src="/images/design.png"
-          className=" mt-[40px] w-full h-auto mx-auto"
+          className=" mt-[60px] w-full h-auto mx-auto"
           alt="des"
           width={450}
           height={450}
