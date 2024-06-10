@@ -38,7 +38,7 @@ export default function Main() {
             <Image src={music} alt="musik" />
           </button>
         </div>
-        <div className="mt-[80px] flex flex-col items-center font-sans font-extralight justify-center text-green-800 px-10">
+        <div className="mt-[220px] flex flex-col items-center font-sans font-extralight justify-center text-green-800 px-10">
           <div data-aos="fade-up" className="font text-6xl">
             <h2>Әкеміз</h2>
             <h2>Ерұланның</h2>
@@ -52,7 +52,7 @@ export default function Main() {
             Сіздерді, әкеміз
           </p>
           <div className="font text-6xl pt-6">
-            <h2 className="mt-2 mb-5" data-aos="fade-up">
+            <h2 className="mt-2 " data-aos="fade-up">
               Ерұланның
             </h2>
           </div>

@@ -26,12 +26,11 @@ export default function Home() {
     <div className="flex flex-col text-center ">
       <Main />
 
-     
-      {/* <div className="bg-[url('/images/bg-element-2.webp')] bg-cover bg-no-repeat bg-center h-[50px] w-full">dfs</div> */}
-      <div className="relative">
+   
+      <div className="relative ">
         <Image
           src="/images/design.png"
-          className="w-full h-auto mx-auto"
+          className=" mt-[40px] w-full h-auto mx-auto"
           alt="des"
           width={450}
           height={450}
